@@ -4,13 +4,13 @@ By using RoTracker, you agree to these Terms.
 
 ## 1. Acceptance of Terms
 
-Using the Service indicates agreement with these Terms and Discord’s Terms of Service.
+Using the Service shows your agreement with these Terms and Discord’s Terms of Service.
 
 ## 2. Description of Service
 
-RoTracker provides Roblox monitoring, analytics, and notification features.
+RoTracker provides monitoring, analytics, and notification features for Roblox.
 
-We may modify or discontinue features at any time.
+We may change or remove features at any time.
 
 ## 3. Proper Use
 
@@ -23,32 +23,32 @@ You agree NOT to:
 
 ## 4. Availability
 
-We do not guarantee uptime or uninterrupted access.
+We do not guarantee that the service will be available or that access will not be interrupted.
 
 ## 5. Data & Accuracy
 
-- Data is sourced from public Roblox APIs
-- Accuracy is not guaranteed
-- We are not responsible for Roblox-side errors
+- Data comes from public Roblox APIs
+- We do not guarantee accuracy
+- We are not responsible for errors on Roblox's side
 
 ## 6. Limitation of Liability
 
-RoTracker is provided **"as is"**.
+RoTracker is provided "as is."
 
 We are not liable for:
 
-- Data inaccuracies
+- Inaccurate data
 - Service downtime
 - Indirect damages
-- Losses resulting from use
+- Losses that come from your use
 
 ## 7. Termination
 
-We may restrict or terminate access for misuse.
+We may limit or end access if misused.
 
 ## 8. Changes to Terms
 
-Terms may be updated. Continued use implies acceptance.
+Terms may be updated. Continued use means you accept the changes.
 
 ## 9. Contact
 
